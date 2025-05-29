@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pilots_GUI", "Pilots_GUI\Pilots_GUI.csproj", "{7DF67BC8-0346-408D-B4DE-9FC8A24DC783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF67BC8-0346-408D-B4DE-9FC8A24DC783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF67BC8-0346-408D-B4DE-9FC8A24DC783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF67BC8-0346-408D-B4DE-9FC8A24DC783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF67BC8-0346-408D-B4DE-9FC8A24DC783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBA7F6FA-882A-4D0B-8718-5210398371AF}
+	EndGlobalSection
+EndGlobal
